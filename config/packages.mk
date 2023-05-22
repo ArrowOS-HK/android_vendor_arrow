@@ -56,7 +56,8 @@ PRODUCT_PACKAGES += \
 
 # Themes
 PRODUCT_PACKAGES += \
-    AndroidBlackThemeOverlay
+    AndroidBlackThemeOverlay \
+    RoundQSOverlay
 
 # Extra tools
 PRODUCT_PACKAGES += \
