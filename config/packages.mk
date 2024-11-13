@@ -28,7 +28,8 @@ PRODUCT_PACKAGES += \
     Stk \
     stats \
     ThemePicker \
-    GameSpace
+    GameSpace \
+    OmniJaws
 
 # SystemUI plugins
 PRODUCT_PACKAGES += \
