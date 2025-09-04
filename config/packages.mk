@@ -19,6 +19,7 @@ PRODUCT_PACKAGES += \
     SimpleCalendar \
     DuckDuckGo \
     ExactCalculator \
+    CertifiedKeyboxOverlay \
     LatinIME \
     Launcher3QuickStep \
     ParallelSpace \
