@@ -333,4 +333,27 @@
     </font>
   </family>
   <alias name="harmonysans-medium" to="harmonysans" weight="500"/>
+
+      <!-- Fucek Font -->
+    <family customizationType="new-named-family" name="fucek">
+        <font weight="400" style="normal">Fucek.ttf</font>
+    </family>
+    <alias name="fucek-semi-bold" to="fucek" weight="600" />
+    <alias name="fucek-bold" to="fucek" weight="700" />
+    <alias name="times" to="fucek" />
+    <alias name="times new roman" to="fucek" />
+    <alias name="palatino" to="fucek" />
+    <alias name="georgia" to="fucek" />
+    <alias name="baskerville" to="fucek" />
+    <alias name="goudy" to="fucek" />
+    <alias name="fantasy" to="fucek" />
+    <alias name="ITC Stone Serif" to="fucek" />
+
+    <!-- Jakarta Plus -->
+    <family customizationType="new-named-family" name="jakarta-plus-medium">
+        <font weight="300" style="normal">JakartaPlus-Medium.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="jakarta-plus">
+        <font weight="300" style="normal">JakartaPlus-Regular.ttf</font>
+    </family>
 </fonts-modification>

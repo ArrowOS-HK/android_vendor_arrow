@@ -26,7 +26,10 @@ PRODUCT_COPY_FILES += \
     vendor/arrow/fonts/HarmonyOS-Sans.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/HarmonyOS-Sans.ttf \
     vendor/arrow/fonts/HarmonyOS-Sans-Italic.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/HarmonyOS-Sans-Italic.ttf \
     vendor/arrow/fonts/Inter-VF.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Inter-VF.ttf \
-    vendor/arrow/fonts/OppoSans-En-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/OppoSans-En-Regular.ttf
+    vendor/arrow/fonts/OppoSans-En-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/OppoSans-En-Regular.ttf \
+    vendor/arrow/fonts/JakartaPlus-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/JakartaPlus-Regular.ttf \
+    vendor/arrow/fonts/JakartaPlus-Medium.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/JakartaPlus-Medium.ttf \
+    vendor/arrow/fonts/Fucek.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Fucek.ttf \
 
 PRODUCT_PACKAGES += \
     FontArbutusSourceOverlay \
@@ -36,4 +39,6 @@ PRODUCT_PACKAGES += \
     FontHarmonySansOverlay \
     FontInterOverlay \
     FontOppoSansOverlay \
-    FontRubikRubikOverlay
+    FontRubikRubikOverlay \
+    FontJakartaPlusOverlay \
+    FontFucekOverlay \
